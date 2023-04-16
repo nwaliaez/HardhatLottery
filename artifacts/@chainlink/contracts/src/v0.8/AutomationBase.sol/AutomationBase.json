@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "AutomationBase",
+  "sourceName": "@chainlink/contracts/src/v0.8/AutomationBase.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "OnlySimulatedBackend",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212202f9d6dd4db3c13b763fc5a07d42365f34694095e7b1afdddb9b5e418f7c9790964736f6c63430008070033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212202f9d6dd4db3c13b763fc5a07d42365f34694095e7b1afdddb9b5e418f7c9790964736f6c63430008070033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
